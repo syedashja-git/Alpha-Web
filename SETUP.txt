@@ -1,0 +1,25 @@
+ALPHA CONSTRUCTION CHEMICALS — WEBSITE
+
+FILES
+index.html, styles.css, script.js and the assets folder belong together.
+Upload the website files to your website folder, preserving the assets folder.
+
+EMAIL FORM
+The contact form uses FormSubmit to deliver enquiries to info@alphaccpk.com.
+1. Open the website through its hosted URL (not a file:// address).
+2. Submit one test enquiry using an email address you control.
+3. Open info@alphaccpk.com and check Inbox and Spam for FormSubmit's activation email.
+4. Click its confirmation link.
+5. Submit another test enquiry and confirm it arrives before promoting the form.
+The initial activation message is not proof of enquiry delivery. Delivery has not been tested from this workspace.
+Submissions are processed by FormSubmit. No email password or API key is stored in the code.
+Required fields: Name, Email and Message. FormSubmit's default CAPTCHA is enabled.
+
+TDS
+The TDS section follows https://alphaccpk.com/tds.htm and links to its original product PDFs.
+ALPHA SWELLBAR-750 returned 404, so its entry offers an email request instead.
+ALPHA PLAST WP-170 and ALPHA PLAST SP-690 are linked as listed in the original directory, but their PDFs could not be independently fetched during checking.
+Keep the existing product PDFs on alphaccpk.com if replacing the old home page.
+
+ANIMATION
+The main heading types once after each page load. Animations respect reduced-motion preferences.
